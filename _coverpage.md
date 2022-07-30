@@ -6,6 +6,6 @@
 - Multi Merchant
 - Integração com ERP SisTerra para e-Commerce, CRM, Dashboars, e muito mais
 
-[Começar](readme.md)
+[Começar](README.md)
 
 ![color](#BBDEFB)
